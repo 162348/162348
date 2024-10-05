@@ -26,12 +26,12 @@ Hirofumi Shiba researches Bayesian Computation.
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=162348&show_icons=true&locale=en" alt="162348" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [流体モデル概観](https://162348.github.io/posts/2024/Particles/Lorenz95.html)
 - [理想点解析のハンズオン](https://162348.github.io/posts/2024/TransDimensionalModels/IdealPoint1.html)
 - [ベイズデータ解析３](https://162348.github.io/posts/2024/Survey/Survey3.html)
 - [ベイズデータ解析４](https://162348.github.io/posts/2024/Survey/Survey4.html)
 - [ベイズデータ解析１](https://162348.github.io/posts/2024/Survey/Survey1.html)
 - [ベイズデータ解析２](https://162348.github.io/posts/2024/Survey/Survey2.html)
-- [R 上の Stan インターフェイス](https://162348.github.io/posts/2024/R/Stan2.html)
 <!-- BLOG-POST-LIST:END -->
 
 
