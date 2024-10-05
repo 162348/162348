@@ -31,6 +31,7 @@ Hirofumi Shiba researches Bayesian Computation.
 - [ベイズデータ解析４](https://162348.github.io/posts/2024/Survey/Survey4.html)
 - [ベイズデータ解析１](https://162348.github.io/posts/2024/Survey/Survey1.html)
 - [ベイズデータ解析２](https://162348.github.io/posts/2024/Survey/Survey2.html)
+- [R 上の Stan インターフェイス](https://162348.github.io/posts/2024/R/Stan2.html)
 <!-- BLOG-POST-LIST:END -->
 
 
