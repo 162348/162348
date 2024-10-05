@@ -20,8 +20,11 @@ Hirofumi Shiba researches Bayesian Computation.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=162348&layout=compact&card_width=350&theme=dracula" alt="Top Languages" style="height: 145px;" />
 </p>
 
-<p align="left">
-<h3>Recent Blog Posts</h3>
+
+<h2>Latest Blog Posts</h2>
+
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=162348&show_icons=true&locale=en" alt="162348" /></p>
+
 <!-- BLOG-POST-LIST:START -->
 - [理想点解析のハンズオン](https://162348.github.io/posts/2024/TransDimensionalModels/IdealPoint1.html)
 - [ベイズデータ解析３](https://162348.github.io/posts/2024/Survey/Survey3.html)
@@ -29,13 +32,6 @@ Hirofumi Shiba researches Bayesian Computation.
 - [ベイズデータ解析１](https://162348.github.io/posts/2024/Survey/Survey1.html)
 - [ベイズデータ解析２](https://162348.github.io/posts/2024/Survey/Survey2.html)
 <!-- BLOG-POST-LIST:END -->
-</p>
-
-<p align="right">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=162348&show_icons=true&locale=en" alt="162348" /></p>
-</p>
-
-
 
 
 <!--
