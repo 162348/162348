@@ -31,7 +31,7 @@ Hirofumi Shiba researches Bayesian Computation.
 - [雑音除去拡散サンプラー](https://162348.github.io/posts/2024/Bridges/SB2-HandsOn.html)
 - [流体モデル概観](https://162348.github.io/posts/2024/Particles/Lorenz95.html)
 - [ベイズデータ解析３](https://162348.github.io/posts/2024/Survey/Survey3.html)
-- [ベイズデータ解析４](https://162348.github.io/posts/2024/Survey/Survey4.html)
+- [ベイズ分散分析のモデル解析](https://162348.github.io/posts/2024/Survey/BayesANOVA.html)
 <!-- BLOG-POST-LIST:END -->
 
 
