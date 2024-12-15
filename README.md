@@ -26,12 +26,12 @@ Hirofumi Shiba researches Bayesian Computation.
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=162348&show_icons=true&locale=en" alt="162348" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [brms を用いたベイズロジスティック回帰分析](https://162348.github.io/posts/2024/Survey/BayesGLMM.html)
 - [ベイズデータ解析７](https://162348.github.io/posts/2024/Survey/BDA3.html)
 - [brms を用いたベイズロジスティック回帰分析](https://162348.github.io/posts/2024/Survey/BayesGLM.html)
 - [変量効果と固定効果](https://162348.github.io/posts/2024/Lifestyle/FixedRandom.html)
 - [brms を用いたベイズ重回帰分析](https://162348.github.io/posts/2024/Survey/BayesRegression.html)
 - [ベイズデータ解析５](https://162348.github.io/posts/2024/Survey/BDA1.html)
-- [ベイズデータ解析６](https://162348.github.io/posts/2024/Survey/BDA2.html)
 <!-- BLOG-POST-LIST:END -->
 
 
