@@ -1,6 +1,6 @@
 ## Hi, I'm Hiro.
 
-Hirofumi Shiba researches Bayesian Computation.
+Hirofumi Shiba researches in Bayesian Computation.
 
 <!--
 <p align="left">
