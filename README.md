@@ -31,7 +31,7 @@ Hirofumi Shiba researches in Bayesian Computation.
 - [Likelihood of Hierarchical Models](https://162348.github.io/posts/2024/Probability/likelihood.html)
 - [On the Identifiability of the Bafumi et. al. Ideal Point Model](https://162348.github.io/posts/2024/TransDimensionalModels/Bafumi.html)
 - [brms を用いたベイズ混合ロジスティック回帰分析](https://162348.github.io/posts/2024/Survey/BayesGLMM.html)
-- [ベイズデータ解析７](https://162348.github.io/posts/2024/Survey/BDA3.html)
+- [brms を用いたベイズロジスティック回帰分析](https://162348.github.io/posts/2024/Survey/BayesGLM.html)
 <!-- BLOG-POST-LIST:END -->
 
 
