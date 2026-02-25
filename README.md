@@ -17,13 +17,13 @@ Hirofumi Shiba researches in Bayesian Computation.
 -->
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=162348&layout=compact&theme=dracula" alt="GitHub Contributions" style="height: 145px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=162348&layout=compact&card_width=350&theme=dracula" alt="Top Languages" style="height: 145px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=162348&layout=compact&card_width=350&theme=dracula" alt="Top Languages (alt)" style="height: 145px;" />
 </p>
 
 
 <h2>Latest Blog Posts</h2>
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=162348&show_icons=true&locale=en" alt="162348" /></p>
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=162348&show_icons=true&locale=en" alt="162348 (alt)" /></p>
 
 <!-- BLOG-POST-LIST:START -->
 - [拡散モデルでの動的暗黙正則化](https://162348.github.io/posts/2025/DiffusionModels/Bonnaire2025.html)
