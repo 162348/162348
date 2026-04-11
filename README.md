@@ -31,7 +31,7 @@ Hirofumi Shiba researches in Bayesian Computation.
 - [PDMP によりスパイク付きの非絶対連続分布からもサンプリングが可能になる](https://162348.github.io/posts/2025/Posters/第19回日本統計学会春季集会.html)
 - [セミパラメトリック重回帰分析](https://162348.github.io/posts/2024/Stat/Regression.html)
 - [brms を用いたベイズ混合ロジスティック回帰分析](https://162348.github.io/posts/2024/Survey/BayesGLMM.html)
-- [brms を用いたベイズロジスティック回帰分析](https://162348.github.io/posts/2024/Survey/BayesGLM.html)
+- [ベイズデータ解析７](https://162348.github.io/posts/2024/Survey/BDA3.html)
 <!-- BLOG-POST-LIST:END -->
 
 
